@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monyasau
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... advanced js
+- 🌱 I’m currently learning ... stuffs ✨ 
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me via olajide.m.olanrewaju@gmail.com
 
